@@ -1,6 +1,6 @@
 ﻿## Interface: 40000
 ## Author: Furion
-## Notes:   A simple combat attributes    monitor ''
+## Notes:   A simple combat attributes    monitor 'yes'
 ## Version: 2.02
 ## Title: |cffff00ffStatusInfor 2.02
 ## SavedVariables: StatusSave
